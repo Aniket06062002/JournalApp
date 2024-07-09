@@ -1,0 +1,2 @@
+# JournalApp
+A Springboot Project
